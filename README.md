@@ -1,7 +1,7 @@
 # Pico_Independence_Day_Lightshow
 # This project is designed to work with a Raspberry Pi Pico or other RP2040 architecture
 # This project is designed to wire up to 9 differently colored LEDs and a single RBG LED with four connections including the anode
-# The program written in C++ randomly toggles LEDs, expected to be a combination of red, white and blue to celebrate Independence Day
+# The program written in C++ randomly toggles LEDs, expected to be a combination of red, white and blue to celebrate Independence Day. The effect is a randomized display of blinking red, white and blue LED lights for holiday celebration.
 # Use the Bill of Materials and wire the LEDs to GPIO pins 10 through 18 with appropriate resistors to balance 3.3V and the LED capacity
 # The RBG light should be wired to the PICO in the following way: red = gpio 1; green = gpio 2; blue = gpio 3
 # The RBG will randomly change between red, white and blue itself when the program is successfully executed.
