@@ -7,4 +7,4 @@
 # The RBG will randomly change between red, white and blue itself when the program is successfully executed.
 # I assume you have already used a raspberry pi pico and have the SDK installed. If not, you should read the getting started manual for the Pico here: https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 # Also download the SDK book here and read after the one above: https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf
-# I provide the necessary CMakeLists.txt file in this repository.
+# I provide the necessary CMakeLists.txt file in this repository assuming you've followed the above "Getting Started With Pico" tutorial and have a project folder where you can make a new directory.
