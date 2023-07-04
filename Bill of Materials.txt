@@ -1,0 +1,19 @@
+(DISCLAIMER: Hardware requirements here are based on the "SunFounder Thales Kit for Raspberry Pi Pico and some hardware obtained independently or from another kit may have different specifications like the ohms needed in a resistor for an LED circuit)
+
+Raspberry Pi Pico with prongs for connecting to a breadboard
+
+1 RGB LED
+
+3 red LEDs
+
+3 white LEDs
+
+3 blue LEDs
+
+11 125 ohm resistors (based on the sunfounder starting kit supplies used by the author of the program, may vary by hardware manufacturer)
+
+1 220 ohm resistor (for green rgb light connection in the Sunfounder Starter Kit)
+
+Breadboard
+
+Jumper cables for breadboard wiring
